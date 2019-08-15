@@ -10,7 +10,7 @@ public final class b {
     qeqwe
     qeqweewq
             w
-    eqw
+    eqw1121
 
     public void setEqw(w eqw) {
         eqweqw

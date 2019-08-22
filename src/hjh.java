@@ -3,6 +3,7 @@ import java.sql.SQLOutput;
 public class hjh {
     public static void main(String[] args) {
         System.out.println("new file555");
-        222222222222222222222222
+        1111
+        2222
     }
 }

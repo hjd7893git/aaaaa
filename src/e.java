@@ -21,7 +21,7 @@ public class e {
         out.flush();
         br.close();
 
-111222
+111
 
     }
 }
